@@ -44,7 +44,7 @@ This project was developed in C, following the strict coding standards of 42.
 ---
 
 🚧 Limitations
-No support for &&, ||, ;
+No support for: &&  || and ;
 
 No advanced job control (fg, bg, etc.)
 
