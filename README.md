@@ -43,22 +43,6 @@ This project was developed in C, following the strict coding standards of 42.
 
 ---
 
-## 📦 Installation & Usage
-
-### Prerequisites
-
-- A Unix-like system (Linux or macOS)
-- `make` and `gcc`
-- `readline` library installed (`brew install readline` or `sudo apt install libreadline-dev`)
-
-### Clone and Run
-
-```bash
-git clone https://github.com/yourGitHubUsername/minishell.git
-cd minishell
-make
-./minishell
-
 🚧 Limitations
 No support for &&, ||, ;
 
@@ -76,3 +60,22 @@ Lexical analysis and parsing
 Signal handling and terminal control
 
 Dynamic memory management in C
+
+
+## 📦 Installation & Usage
+
+### Prerequisites
+
+- A Unix-like system (Linux or macOS)
+- `make` and `gcc`
+- `readline` library installed (`brew install readline` or `sudo apt install libreadline-dev`)
+
+### Clone and Run
+
+```bash
+git clone https://github.com/yourGitHubUsername/minishell.git
+cd minishell
+make
+./minishell
+
+
