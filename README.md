@@ -43,14 +43,16 @@ This project was developed in C, following the strict coding standards of 42.
 
 ---
 
-🚧 Limitations
+##🚧 Limitations
+
 No support for: &&  || and ;
 
 No advanced job control (fg, bg, etc.)
 
 Not a full Bash replacement
 
-🧠 What We Learned
+##🧠 What We Learned
+
 Process forking and execve
 
 File descriptors and redirections
