@@ -51,6 +51,8 @@ No advanced job control (fg, bg, etc.)
 
 Not a full Bash replacement
 
+---
+
 ##🧠 What We Learned
 
 Process forking and execve
@@ -63,6 +65,7 @@ Signal handling and terminal control
 
 Dynamic memory management in C
 
+---
 
 ## 📦 Installation & Usage
 
